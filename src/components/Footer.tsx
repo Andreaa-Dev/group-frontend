@@ -5,6 +5,7 @@ export default function Footer() {
     <div>
       Footer
       <p> Social Media</p>
+      <p> Delivery</p>
     </div>
   );
 }
